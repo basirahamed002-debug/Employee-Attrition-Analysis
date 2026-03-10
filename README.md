@@ -19,7 +19,5 @@ Employee Attrition Analysis is a comprehensive data analytics project designed t
     Data Cleaning Metrics: Documentation of the transformation steps, handling of missing values, and data normalization.
     Analysis: The final processed results, including key performance indicators (KPIs) and attrition trends.
 
-## 💡 Suggested GitHub "About" Snippet
-    "An end-to-end HR Analytics project exploring Employee Attrition. Features data cleaning workflows and statistical analysis to uncover the drivers behind workforce turnover        using Python/Excel."
 
 
