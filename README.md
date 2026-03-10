@@ -39,6 +39,9 @@ Summary of key insights and actionable recommendations for the HR team.
 ## 🛠️ Tools Used
 
 Power BI Desktop – Dashboard development
+
 Power Query – Data cleaning and transformation
+
 DAX – Custom measures and calculations
+
 Microsoft Excel / CSV – Raw data source
