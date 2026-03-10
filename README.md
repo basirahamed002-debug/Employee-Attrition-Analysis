@@ -22,12 +22,19 @@ Summary of key insights and actionable recommendations for the HR team.
 ## 🔍 Key Insights
 
 🔴 Employees who work overtime are significantly more likely to leave
+
 🔴 Sales department has the highest attrition rate compared to R&D and HR
+
 🔴 Single employees show higher attrition than married or divorced employees
+
 🔴 Employees at Job Level 1–2 are most at risk of leaving
+
 🔴 Employees with 0 recent promotions show higher attrition risk
+
 🟢 Higher stock option levels correlate with lower attrition
+
 🟢 Employees with better work-life balance scores tend to stay longer
+
 
 ## 🛠️ Tools Used
 
