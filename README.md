@@ -8,9 +8,9 @@ Discover why employees leave by examining overtime, job involvement, and engagem
 Provide HR with clear, actionable insights to improve employee retention strategies
 
 ## 📊 Dashboard Pages
-### Page 1 – Employee Attrition Overview – At a Glance
+#### Page 1 – Employee Attrition Overview – At a Glance
 High-level KPIs including Total Employees, Total Attrition, Attrition Rate, and Active Employees. Includes donut chart by department and bar chart by job role.
-### Page 2 – Who is Leaving? – Demographic Breakdown
+#### Page 2 – Who is Leaving? – Demographic Breakdown
 Attrition analysis by age band, marital status, education field, business travel, and gender.
 #### Page 3 – Why Are They Leaving? – Work Environment Analysis
 Deep dive into overtime impact, job satisfaction, work-life balance, environment satisfaction, and distance from home.
